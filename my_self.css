@@ -1,0 +1,16 @@
+body{
+    background-image: url("images/signup-images.jpg");
+}
+table {
+border-collapse: collapse;
+width: 50%;
+color: #8c6758;
+font-family: Georgia, 'Times New Roman', Times, serif;
+font-size: 20px;
+text-align: left;
+}
+th {
+background-color: #1127eb;
+color: rgb(148, 53, 53);
+}
+tr:nth-child(even) {background-color: #f2f2f2}
